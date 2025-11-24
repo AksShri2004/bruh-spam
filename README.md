@@ -1,7 +1,7 @@
 
 # Bruh Spam — README
 
-![bruh logo](file:///mnt/data/logo.jpg)
+![bruh logo](logo.png)
 
 > **Live**  
 > **Backend (microservice):** https://bruh-spam.onrender.com  
