@@ -50,6 +50,12 @@ When a user opens an email, the add-on:
 3. Returns spam analysis immediately  
 4. Allows labeling as `Model-Spam` / `Model-Not-Spam`
 
+##### 🔹 Screenshot 1 — Add on message fetching view
+![Frontend Screenshot 3](1.jpg)
+
+##### 🔹 Screenshot 1 — Add on result view
+![Frontend Screenshot 4](2.jpg)
+
 The add-on is ideal for end-users who want quick, reliable spam checking inside Gmail.
 
 ---
@@ -69,7 +75,7 @@ Features:
 
 #### 📸 Frontend UI Screenshots
 
-##### 🔹 Screenshot 1 — Main Interface
+##### 🔹 Screenshot 1 — Not Spam Detection Result
 ![Frontend Screenshot 1](notspam.jpg)
 
 ##### 🔹 Screenshot 2 — Spam Detection Result
