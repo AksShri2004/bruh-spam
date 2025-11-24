@@ -1,8 +1,6 @@
 
 # Bruh Spam — README
 
-# Bruh Spam — README
-
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-API-black.svg)
