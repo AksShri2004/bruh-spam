@@ -15,6 +15,20 @@
 
 ---
 
+## About
+
+Bruh-Spam is an advanced, ML-powered email spam classification system built to be fast, accurate, and developer-friendly.  
+It offers a complete ecosystem including:
+
+- 🔹 A Python/Flask backend microservice for spam prediction  
+- 🔹 A clean and intuitive frontend interface for manual testing  
+- 🔹 A Gmail Add-on that lets users check any email inside their inbox  
+
+Designed with both users and developers in mind, Bruh-Spam can be used as a website, integrated into applications through its microservice API, or accessed directly from Gmail through the add-on.  
+Whether you're validating suspicious emails or building an email-aware product, Bruh-Spam makes spam detection seamless and accessible.
+
+---
+
 ## 1. Product Description
 
 **Bruh Spam** is a lightweight, production-ready spam detection system consisting of:
