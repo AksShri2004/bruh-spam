@@ -1,9 +1,11 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import pickle
 from sklearn.feature_extraction.text import TfidfVectorizer
 import os
 
 app = Flask(__name__)
+CORS(app)
 
 # Load your trained model and vectorizer (update paths accordingly)
 model = pickle.load(open('spam_model.pkl', 'rb'))
